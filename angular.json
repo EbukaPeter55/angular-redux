@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-redu"
+    }
+  },
+  "defaultProject": "angular-redu",
+  "cli": {
+    "analytics": false
+  }
 }
